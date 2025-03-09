@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733140128503",
+    "project_id": "prog7313ice1",
+    "storage_bucket": "prog7313ice1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733140128503:android:08ddf91dfd25772bcff9f2",
+        "android_client_info": {
+          "package_name": "com.fake.prog7313_loginandregisterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf9GVvhOi7_Xg12WzZCMW-pjkcZMWi8hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
